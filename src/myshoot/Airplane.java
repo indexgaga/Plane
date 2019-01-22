@@ -12,7 +12,7 @@ public class Airplane extends Flyer{
 	public int score = 10;
 	public Airplane(){
 		life = 15;
-		speed = 1;
+		speed = 1; 
 		id = 0;
 		score = 100;
 		image = ShootGame.airplane;
